@@ -1,0 +1,11 @@
+{
+  "name": "lecture3",
+  "version": "1.0.0",
+  "description": "blah",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Eranga",
+  "license": "ISC"
+}
